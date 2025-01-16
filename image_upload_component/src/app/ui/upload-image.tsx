@@ -80,7 +80,7 @@ export default function FileUploadForm() {
             }
           )}
         >
-          <div className="text-center">
+          <div className={`text-center ${previewUrl ? "hidden" : "visible"}`}>
             <PhotoIcon
               aria-hidden="true"
               className="mx-auto size-12 text-gray-300"
