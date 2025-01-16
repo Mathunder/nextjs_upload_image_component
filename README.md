@@ -1,0 +1,1 @@
+<img alt="Screenshot of upload image component" src="./img/upload-image.png" width="100%"/>
